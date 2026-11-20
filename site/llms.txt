@@ -1,0 +1,39 @@
+# MarketWerk
+
+> Boutique go-to-market agency for international crypto brands entering Germany and the DACH market. Strategy, PR & media, KOL & influencer marketing, German content & SEO, partnerships and community – hands-on, from first audit to traction.
+
+## Key facts
+- Company: MarketWerk – boutique go-to-market agency for international crypto brands entering Germany and the DACH market (Germany, Austria, Switzerland). "Start in Germany. Scale across Europe."
+- Founder & CEO: Michael Beches – full-time in crypto since the early days; founded and exited multiple blockchain companies; co-founded Germany's largest blockchain conference; built a German crypto YouTube community (https://www.youtube.com/@bekesch).
+- Track record: 50,000+ users onboarded into clients' products across DACH · €2M+ revenue generated for clients in the German-speaking market · 120+ campaigns launched (KOL, PR, media & partnership) · 10+ brands · 10+ years in crypto.
+- Brands: Waltio, ether.fi, Blever, Nest Collective, Anon Summit.
+- Markets: DACH (home market); campaigns in France, Spain and Italy via partner network.
+- Languages: English and German.
+- Contact: m.marketwerk@gmail.com · intro call: https://calendar.app.google/tH7rfLv8RmtfwwCB7 · https://marketwerk.com/contact/
+- Legal seat: Praça dos Restauradores 13, 6G, 1250-187 Lisboa, Portugal.
+
+## Services
+- [Go-to-Market Strategy](https://marketwerk.com/services/crypto-go-to-market-strategy/): Market analysis, positioning, channel mix and a launch roadmap for entering Germany and DACH – built by people who run it. (German: https://marketwerk.com/de/leistungen/krypto-go-to-market-strategie/)
+- [PR & Media](https://marketwerk.com/services/crypto-pr-agency-germany/): Launch PR, native German press releases and earned media in DACH crypto, finance and tech outlets – built on stories editors want. (German: https://marketwerk.com/de/leistungen/krypto-pr-agentur/)
+- [KOL & Influencers](https://marketwerk.com/services/crypto-influencer-marketing/): Vetted German-speaking crypto creators, compliant briefs and tracked campaigns on YouTube, X, Instagram, Telegram and podcasts. (German: https://marketwerk.com/de/leistungen/krypto-influencer-marketing/)
+- [Content & SEO](https://marketwerk.com/services/crypto-content-seo-localization/): German keyword research, SEO content and localization beyond translation – plus owned channels like YouTube and newsletters. (German: https://marketwerk.com/de/leistungen/krypto-content-seo-lokalisierung/)
+- [Partnerships](https://marketwerk.com/services/crypto-partnerships-affiliates/): Comparison platforms, crypto portals, affiliates, co-marketing and events – partnerships for visibility, discovery and backlinks. (German: https://marketwerk.com/de/leistungen/krypto-partnerschaften-affiliates/)
+- [Community Building](https://marketwerk.com/services/crypto-community-management/): German-speaking communities on Telegram, Discord and X: moderation, AMAs, meetups, ambassador programs and scam prevention. (German: https://marketwerk.com/de/leistungen/krypto-community-management/)
+
+## Case study
+- [Waltio – German market entry](https://marketwerk.com/case-studies/waltio/): France’s #1 crypto tax tool entered a German market held by local incumbents. Within 6–8 months we built the credibility and visibility Waltio needed – from SEO and launch PR to partnerships and a weekly YouTube channel. Results: 70+ media publications, 1M+ impressions, 10,000+ YouTube views, Top 3 rankings on selected comparison platforms, #3 organic ranking for crypto tax topics within a few months.
+
+## Guides
+- [How to enter the German crypto market: a go-to-market playbook for 2026](https://marketwerk.com/blog/enter-german-crypto-market/): MiCA groundwork, localization, the right channel mix and the Test → Win → Scale sequence: a practical playbook for crypto brands entering Germany in 2026.
+- [MiCA marketing rules: what crypto brands can (and can't) say in Germany](https://marketwerk.com/blog/mica-marketing-rules-crypto/): What MiCA requires from crypto marketing in Germany – from clear labeling and white-paper consistency to influencer posts – plus a checklist to run before you publish.
+- [Crypto influencer marketing in Germany: how to choose KOLs that convert](https://marketwerk.com/blog/crypto-influencer-marketing-germany/): How the German-speaking crypto creator scene works, how to pick KOLs by audience, engagement and compliance, and which formats and tracking turn views into users.
+- [Crypto PR in Germany: the media landscape and how to earn coverage](https://marketwerk.com/blog/crypto-pr-germany-media-guide/): Which German-language media matter for crypto brands, what journalists expect, why story pitches beat press-release blasts and how to measure PR beyond clippings.
+- [Localization vs. translation: how to speak to German crypto users](https://marketwerk.com/blog/crypto-localization-german-market/): Why literal translation fails with German crypto users – and what to localize instead: tone, terminology, app, payments, tax features, SEO, Austria and Switzerland.
+- [Crypto tax season in Germany: a marketing calendar for crypto brands](https://marketwerk.com/blog/crypto-tax-season-marketing-germany/): When German crypto investors turn to their tax returns, demand for tools, guides and expert content rises. A quarter-by-quarter plan to be ready for it.
+- [The DACH crypto market: Germany, Austria and Switzerland compared](https://marketwerk.com/blog/dach-crypto-market-germany-austria-switzerland/): One language, three markets: how Germany, Austria and Switzerland differ in regulation, currency, media and tax – and how to sequence your DACH entry.
+
+## German version
+- [Startseite (DE)](https://marketwerk.com/de/) · [Leistungen](https://marketwerk.com/de/leistungen/) · [Blog](https://marketwerk.com/de/blog/) · [Kontakt](https://marketwerk.com/de/kontakt/)
+
+## Optional
+- [Full content for AI assistants](https://marketwerk.com/llms-full.txt)
