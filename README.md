@@ -5,6 +5,8 @@ Static website for [marketwerk.com](https://marketwerk.com), English at `/` and 
 ## How it is published
 - The site lives in `site/` (plain HTML/CSS/JS, no build step).
 - Netlify is linked to this repository: every push to `main` goes live automatically (`netlify.toml` sets `site/` as the publish folder).
+- This repository is public on purpose: on Netlify's free plan, builds from private repositories are blocked for commits
+  that do not come from a verified team member. It holds only the public website files, no secrets.
 - Domain DNS is at GoDaddy (A record `@` → Netlify, CNAME `www` → Netlify). Nothing to change there for updates.
 
 ## Contact form (Netlify Forms)
