@@ -351,3 +351,33 @@
 
   preloader();
 })();
+
+/* ---------------- team slideshow (founder / advisor) ---------------- */
+(function () {
+  var box = document.querySelector('[data-team-slider]'); if (!box) return;
+  var sec = box.closest('.team') || document;
+  var slides = box.querySelectorAll('.team-slide'), bios = sec.querySelectorAll('.team-bio[data-slide]');
+  var ctrls = sec.querySelectorAll('[data-go]'), n = slides.length, cur = 0, timer = null, visible = false, hold = false;
+  var DUR = 7000, reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+  box.style.setProperty('--team-dur', DUR / 1000 + 's');
+  function show(k) {
+    cur = (k + n) % n;
+    [].forEach.call(slides, function (s, i) { var on = i === cur; s.classList.toggle('is-active', on); s.setAttribute('aria-hidden', on ? 'false' : 'true'); });
+    [].forEach.call(bios, function (b) { var on = +b.getAttribute('data-slide') === cur; b.classList.toggle('is-active', on); b.setAttribute('aria-hidden', on ? 'false' : 'true');
+      [].forEach.call(b.querySelectorAll('a'), function (a) { a.tabIndex = on ? 0 : -1; }); });
+    [].forEach.call(ctrls, function (c) { c.classList.toggle('is-active', +c.getAttribute('data-go') === cur); });
+    restart();
+  }
+  function restart() {
+    clearTimeout(timer); box.classList.remove('is-playing');
+    if (reduce || !visible || hold) return;
+    void box.offsetWidth; box.classList.add('is-playing');
+    timer = setTimeout(function () { show(cur + 1); }, DUR);
+  }
+  [].forEach.call(ctrls, function (c) { c.addEventListener('click', function () { show(+c.getAttribute('data-go')); }); });
+  var nx = box.querySelector('[data-next]'); if (nx) nx.addEventListener('click', function () { show(cur + 1); });
+  [].forEach.call(slides, function (s) { s.addEventListener('click', function () { show(cur + 1); }); });
+  sec.addEventListener('mouseenter', function () { hold = true; restart(); });
+  sec.addEventListener('mouseleave', function () { hold = false; restart(); });
+  if ('IntersectionObserver' in window) new IntersectionObserver(function (e) { visible = e[0].isIntersecting; restart(); }, { threshold: 0.35 }).observe(box);
+})();
