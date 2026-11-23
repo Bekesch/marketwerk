@@ -11,7 +11,7 @@ Static website for [marketwerk.com](https://marketwerk.com), English at `/` and 
 
 ## Contact form (Netlify Forms)
 - Form name: `contact` (home page and contact page, EN + DE), honeypot field `website`.
-- Netlify → Forms: form detection enabled; email notification to the MarketWerk inbox.
+- Netlify → Forms: form detection enabled; email notification to office@marketwerk.com.
 
 ## When changing CSS or JS
 Bump the `?v=` version on `assets/css/site.css` / `assets/js/site.js` in every HTML file, otherwise visitors may see a cached old version.
